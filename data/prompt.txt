@@ -1,0 +1,9 @@
+source:
+shape:face
+attribute:hair
+style:photo
+target:
+shape:long face, bearded face, fat,
+attribute:silver hair, 
+style:pixar, painting
+

@@ -1,0 +1,16 @@
+lmdb
+numpy
+ninja
+pillow
+requests
+tqdm
+scipy
+scikit-image
+scikit-video
+trimesh[easy]
+configargparse
+munch
+wandb
+torch
+torchvision
+pytorch3d
