@@ -18,4 +18,4 @@ An unofficial implementation of HyperStyle3D: Text-Guided 3D Portrait Stylizatio
 ## Demo 
 
 ## Acknowledgments
-This code is inspired by rosinality's [StyleSDF](https://github.com/royorel/StyleSDF).
+This code is inspired by royorel's [StyleSDF](https://github.com/royorel/StyleSDF).
